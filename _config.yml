@@ -1,0 +1,12 @@
+# Site settings
+title: Dunbar Samples
+email: cubap@slu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Screen shots and annotations for the Dunbar Library 
+  and Archive Project at the University of Dayton.
+baseurl: "/dunbar-samples" # the subpath of your site, e.g. /blog/
+github_username:  CenterForDigitalHumanities
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
